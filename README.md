@@ -42,6 +42,12 @@ verification process includes non-technical elements.
 Note: I do not perform security audits and do not confirm that I understand
 100% of the code.
 
+# Index
+
+The following software is included here:
+
+1. password-store 1.6.5
+
 # Suggestions and contributions
 
 I haven't taken any suggestions or contributions yet. Feel free to submit them,
